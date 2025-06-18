@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anpapra
-- 👀 I’m interested in Astrophysics and Climate Science
+- 👀 I’m interested in Astrophysics and Climate Science: pulsars, grav waves, black holes, magnetic fields, tropical cyclones
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on anything astro or climate!
 - 📫 How to reach me? Text me on LinkedIn
