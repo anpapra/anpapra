@@ -11,8 +11,8 @@
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="anpapra | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/F5B700" />][linkedin]
-[<img align="left" alt="akiaranni | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/F5B700" />][instagram]
+[<img align="left" alt="anpapra | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/8A2BE2" />][linkedin]
+[<img align="left" alt="akiaranni | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/8A2BE2" />][instagram]
 
 [linkedin]: https://linkedin.com/in/anpapra
 [instagram]: https://www.instagram.com/akiaranni/
