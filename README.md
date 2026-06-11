@@ -17,8 +17,7 @@
 <a href="https://instagram.com/akiaranni">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
-[linkedin]: https://linkedin.com/in/anpapra
-[instagram]: https://www.instagram.com/akiaranni/
+
 
 <!---
 - 👋 Hi, I’m @anpapra
