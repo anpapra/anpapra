@@ -5,7 +5,7 @@
 - <b>Light Pollution</b>
   - [Solar Activity forcing on Night Sky Brightness](https://github.com/anpapra/light-pollution)
   - [Spain Blackout Analysis](https://github.com/anpapra/spain-blackout-analysis)
-  - [SQL API Data Exctraction Pipeline](https://github.com/anpapra/sql-api-data-pipeline-EELabs)
+  - [SQL API Data Extraction Pipeline](https://github.com/anpapra/sql-api-data-pipeline-EELabs)
 - <b>Hurricane Trends</b>
   - [Sea Surface Temperature impact on Hurricate Wind Speed](https://github.com/anpapra/hurricane-sst-analysis) 
 - <b>Internships</b>
