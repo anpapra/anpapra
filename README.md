@@ -3,7 +3,7 @@
 <h2>👩🏻‍💻 Data Analytics projects in Science Research:</h2>
 
 - <b>Light Pollution</b>
-  - [Solar Activity forcing on Night Sky Brightness](https://github.com/anpapra/light-pollution)
+  - [Solar Activity forcing on Night Sky Brightness](https://github.com/anpapra/light-pollution)<b><i>(Current work collaboration)</b></i>
   - [Spain Blackout Analysis](https://github.com/anpapra/spain-blackout-analysis)
   - [SQL API Data Extraction Pipeline](https://github.com/anpapra/sql-api-data-pipeline-EELabs)
 - <b>Hurricane Trends</b>
