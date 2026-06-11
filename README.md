@@ -10,10 +10,13 @@
   - [AstroAlertBridge: Astronomical Transient Alert Ingestion Pipeline](https://github.com/anpapra/AstroAlertBridge)
 
 <h2> Connect with me:</h2>
+<a href="https://linkedin.com/in/anpapra">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
 
-[<img align="left" alt="anpapra | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/8A2BE2" />][linkedin]
-[<img align="left" alt="akiaranni | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/8A2BE2" />][instagram]
-
+<a href="https://instagram.com/akiaranni">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
 [linkedin]: https://linkedin.com/in/anpapra
 [instagram]: https://www.instagram.com/akiaranni/
 
