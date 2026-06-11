@@ -5,7 +5,7 @@
 - <b>Light Pollution</b>
   - [Solar Activity forcing on Night Sky Brightness](https://github.com/anpapra/light-pollution)
 - <b>Hurricane Trends</b>
-  - [Sea Surface Temperature impact on Hurricate Wind Speed](https://github.com/anpapra/hurricane-sst-analysis) <b><i>(Potentially NSFW)</b></i>
+  - [Sea Surface Temperature impact on Hurricate Wind Speed](https://github.com/anpapra/hurricane-sst-analysis) 
 - <b>Internships</b>
   - [AstroAlertBridge: Astronomical Transient Alert Ingestion Pipeline](https://github.com/anpapra/AstroAlertBridge)
 
