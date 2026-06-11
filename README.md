@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ana! <br/><a href="https://github.com/anpapra">Research Data Analyst and</a>, <a href="https://www.linkedin.com/in/anpapra/"> Astrophysicist</a></h1>
+<h1>Hi, I'm Ana! <br/><a href="https://github.com/anpapra">Research Data Analyst and</a> <a href="https://www.linkedin.com/in/anpapra/"> Astrophysicist</a></h1>
 
 <h2>👩🏻‍💻 Data Analytics projects in Science Research:</h2>
 
